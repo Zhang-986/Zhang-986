@@ -96,24 +96,6 @@
   -->
 </div>
 
----
-
-## 📊 我的 GitHub 统计 | My GitHub Stats
-
-<div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Zhang-986&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&count_private=true" alt="GitHub Stats" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhang-986&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  </p>
-  <p>
-    <img src="https://streak-stats.demolab.com/?user=Zhang-986&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </p>
-  <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=Zhang-986&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
-  </p>
-</div>
 
 ---
 
