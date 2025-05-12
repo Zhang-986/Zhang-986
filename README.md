@@ -1,98 +1,147 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/センチメンタルサーカスセンチメンタルサーカス部-シャッポ-sentimentalcircus-XAxK25x6j24AVj1t6t/giphy.gif" width="150"/>
-  <h1>嗨！我是 Zhang-986 (张同学) 👋</h1>
-  <p>一名坐标河南科技大学软件学院的大二“码”农学徒，正在“软件工程”这片广阔大陆上努力打怪升级！</p>
-  <p>当前最大的史诗级任务是：<strong>漂亮地通关《软件工程》课程 BOSS！</strong> 💯</p>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="250px" />
+  <h1>👋 你好呀，我是Zhang-986!</h1>
+  <p>
+    一名坐标洛阳的大二软件工程“练习生” 🌱，主攻后端开发技术栈！<br />
+    梦想是成为一名能够用代码改变世界（或者至少让服务器更稳定）的后端工程师。🚀
+  </p>
+
+  <!-- 个性化小牌子 -->
+  <p>
+    <img src="https://img.shields.io/badge/身份-大二软件工程后端萌新-brightgreen?style=for-the-badge" alt="大二软件工程后端萌新" />
+    <img src="https://img.shields.io/badge/目标-后端大佬养成中-blueviolet?style=for-the-badge" alt="后端大佬养成中" />
+    <img src="https://img.shields.io/badge/状态-Bug调不完就学-red?style=for-the-badge" alt="Bug调不完就学" />
+  </p>
 </div>
 
 ---
 
-### 🚀 我的“软件工程”冒险日志：
+## 🚀 关于我 | About Me
 
-哈喽呀！欢迎来到我的数字小宇宙！🌌 你现在看到的是一个对代码充满好奇，偶尔被 BUG 虐到怀疑人生，但总能满血复活继续战斗的软件工程大二学生的“秘密基地”。
-
-*   **当前副本进度**：正在《软件工程》这门课的地图上探索。从“需求分析”的迷雾森林，到“系统设计”的宏伟蓝图，再到“代码实现”的一砖一瓦，每一步都充满了挑战和新奇！我坚信，理解了这些，就能少写点让自己（和未来的同事）头疼的代码。😂
-*   **我的学习信条**：
-    *   理论知识是内功心法，项目实践是招式演练，两手都要抓，两手都要硬！
-    *   写代码就像解谜，BUG 就是调皮捣蛋的小精灵，抓到它们超有成就感！
-    *   “优雅，永不过时” —— 不仅指代码风格，也指解决问题的思路。
-*   **《软件工程》带给我的启发**：这门课教会我，写代码不仅仅是把功能实现，更重要的是如何与团队协作、如何写出可维护、可扩展的“艺术品”（好吧，目前还是“手工艺品”水平😅）。它就像一本武功秘籍，虽然现在还看得云里雾里，但感觉练成了会很厉害！
-
----
-
-### 🛠️ 我的冒险者装备库 (正在解锁更多...):
-
-这些是我在“软件工程”及相关技术领域冒险时，逐渐收集到的“神兵利器”和“魔法卷轴”：
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Cloud"/>
-  <img src="https://img.shields.io/badge/MyBatis-003366?style=for-the-badge&logo=mybatis&logoColor=white" alt="MyBatis"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven"/>
+<p align="left">
+  嗨！我是一名充满好奇心和热情的开发者，目前正沉浸在软件工程（特别是后端开发）的奇妙世界里。我喜欢探索如何构建高效、可扩展且安全的服务端应用程序。💻
 </p>
 
-*   **Java 大法师**：正在努力掌握 Java 的各种咒语，从基础语法到集合、反射，再到 Stream 流和 Lambda 表达式这种酷炫魔法。JVM 的神秘面纱也想一探究竟！
-*   **Spring 全家桶爱好者**：Spring Boot 是我快速施法的利器，Spring Cloud 正在探索中，目标是构建更强大的魔法阵（微服务）！
-*   **数据存储小能手**：MySQL 里存着我的宝藏数据，Redis 则是我加速施法的缓存水晶球。
-*   **消息传递信鸽**：RabbitMQ 帮我异步传递各种小纸条，让系统不再“堵车”。
-*   **版本控制与构建**：Git 是我的时光机器，Maven 是我的炼金工坊。
-*   **还有更多...**：设计模式、计算机网络、Linux... 都是我正在努力修炼的内功！
+<ul>
+  <li>🎓 目前就读于Haust，主修软件工程。</li>
+  <li>💡 对分布式系统、微服务架构、API 设计和数据库技术有浓厚兴趣。</li>
+  <li>🌱 坚信持续学习是成长的关键，喜欢通过实践来掌握新技能。</li>
+  <li>🎮 业余时间，我喜欢瓦和CF，CS。</li>
+</ul>
 
 ---
 
-### ⚔️ 我的实战演练场 (一些有趣的尝试):
+## 🛠️ 我的技术武器库 | My Tech Stack
 
-这些是我在学习过程中，为了更好地理解和应用“软件工程”的知识（顺便练练手）搞出来的小玩意儿：
+<p align="center">
+  <!-- 常用编程语言 -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,go,cpp,javascript&perline=5&theme=light" alt="编程语言"/>
+  </a>
+  <br/>
+  <em>（主要使用 Java 和 Python 进行后端开发，Go 和 C++ 也在学习探索中！）</em>
+  <br/><br/>
 
-#### 1. Haust校园内推信息交流平台 📢
+  <!-- 后端框架与技术 -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,django,flask,nodejs,express,fastapi&perline=6&theme=light" alt="后端框架与技术"/>
+  </a>
+  <br/>
+  <em>（Spring Boot 是我的主力框架，Django/Flask 也在我的工具箱里！）</em>
+  <br/><br/>
 
-*   **冒险起因**：想给咱们河科大的小伙伴们提供一个方便找内推、交流经验的地方，于是就有了这个平台。
-*   **我的“工程”体验**：
-    *   **需求收集**：一开始就想着大家需要看内推、能评论，简单直接！
-    *   **技术选型**：SpringBoot + MySQL + Mybatis + Redis + RabbitMQ，都是我熟悉的“兵器”。
-    *   **亮点尝试**：
-        *   用**阿里云RAG向量知识库**搞了个智能搜索，让找信息更“聪明”。（第一次接触AI相关的，酷！）
-        *   为了社区和谐，用**AOP + IK分词器 + 布隆过滤器**做了个敏感词检测，当了一回“网络警察”。
-        *   点赞和热评系统用 **Redis** 实现，速度嗖嗖的！
-    *   **工程感悟**：原来一个看似简单的功能背后，需要考虑这么多东西！比如怎么处理并发、怎么保证数据一致性（虽然引入 RabbitMQ 异步处理了，但还是学到了很多）。
+  <!-- 数据库 -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&perline=4&theme=light" alt="数据库"/>
+  </a>
+  <br/>
+  <em>（熟悉关系型数据库，也正在探索 NoSQL 的奥秘！）</em>
+  <br/><br/>
 
-#### 2. 智学云谷 💡
-
-*   **冒险起因**：参与了一个在线教育平台的开发，想看看真实的线上项目是怎么运作的。
-*   **我的“工程”体验**：
-    *   **模块化开发**：负责了学习、点赞、优惠等模块，体会到了“高内聚、低耦合”的奥义。
-    *   **性能优化初探**：
-        *   视频续播用 **Redis + DelayQueue** 减少数据库压力，感觉自己像个“性能调优师”（入门级）。
-        *   签到用 **Redis BitMap**，真是小身材大味道，省空间小能手！
-        *   优惠券超领问题用了**Redisson分布式锁**，第一次感受到“锁”的强大。
-    *   **工程感悟**：这个项目让我对**异步处理 (RabbitMQ)**、**定时任务 (XXL-JOB)**、**数据分片和分表**这些“高大上”的概念有了更直观的认识。原来大型系统就是这样一点点优化出来的！
-
----
-
-### 🌱 未来的冒险计划：
-
-*   **首要目标**：把《软件工程》这门课的知识彻底消化吸收，争取期末交出一份让自己满意的答卷！
-*   继续深入 Java 后端，把 Spring Cloud 家族的更多成员（比如 Nacos, Sentinel）认识一下。
-*   对**分布式系统**的奥秘充满向往，想知道那些大型网站是怎么撑住亿级流量的。
-*   多逛逛 GitHub，看看大佬们的代码，学习他们的“屠龙之术”。
-*   如果可以，参与一些小型的开源项目，感受团队协作的魅力。
+  <!-- 工具与其他 -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux,idea,vscode,postman&perline=8&theme=light" alt="工具与其他"/>
+  </a>
+  <br/>
+  <em>（这些工具让我的开发之旅更加顺畅高效！）</em>
+</p>
 
 ---
 
-### 📫 跟我打个招呼吧！
-
-*   📧 **邮箱**：`3225483474@qq.com` (技术交流大欢迎！如果是BUG求助，我会尽力，但我不保证能解决哈哈！)
-*   🤝 **在 GitHub 上**：你已经找到我啦！欢迎 Star 我的小项目，或者给我提 Issue (请温柔一点哦)！
+## 🌱 我正在学习 | Currently Learning
 
 <div align="center">
-  <p>感谢你花时间阅读我的“冒险者宣言”！</p>
-  <p>愿我们都能在代码的世界里，找到属于自己的乐趣和成就！✨</p>
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="100"/>
+  <p>学无止境，我最近在努力钻研以下技术：</p>
+  <p>
+    <img src="https://img.shields.io/badge/学习中-微服务架构-orange?style=flat-square" alt="微服务架构" />
+    <img src="https://img.shields.io/badge/学习中-云原生技术 (Docker & K8s)-blue?style=flat-square" alt="云原生技术" />
+    <img src="https://img.shields.io/badge/学习中-消息队列 (Kafka/RabbitMQ)-green?style=flat-square" alt="消息队列" />
+    <img src="https://img.shields.io/badge/学习中-更深入的算法与数据结构-purple?style=flat-square" alt="算法与数据结构" />
+  </p>
+</div>
+
+---
+
+## 💡 我的项目作品 | My Projects
+
+<div align="center">
+  <p>目前还在努力孵化我的项目，敬请期待！或者你也可以看看我学校的一些课程设计（如果我放上来的话 😉）。</p>
+  <p>
+    <img src="https://img.shields.io/badge/项目状态-孵化中...🐣-yellow?style=for-the-badge" alt="项目孵化中" />
+  </p>
+  <!-- 
+    未来可以这样展示你的项目:
+    [![项目1](https://github-readme-stats.vercel.app/api/pin/?username=你的用户名&repo=你的项目名&theme=radical)](https://github.com/你的用户名/你的项目名)
+    [![项目2](https://github-readme-stats.vercel.app/api/pin/?username=你的用户名&repo=你的项目名&theme=dracula)](https://github.com/你的用户名/你的项目名)
+  -->
+</div>
+
+---
+
+## 📊 我的 GitHub 统计 | My GitHub Stats
+
+<div align="center">
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&count_private=true" alt="GitHub Stats" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  </p>
+  <p>
+    <img src="https://streak-stats.demolab.com/?user=你的用户名&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </p>
+  <p>
+    <img src="https://github-profile-trophy.vercel.app/?username=你的用户名&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
+  </p>
+</div>
+
+---
+
+## 🔗 如何找到我 | Connect with Me
+
+<div align="center">
+  <p>非常欢迎和我交流技术或者一起学习！</p>
+  <a href="mailto:你的邮箱地址"><img src="https://img.shields.io/badge/Email-邮箱联系我-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <!-- 
+    如果你有其他社交媒体，可以取消注释并替换链接:
+  <a href="https://www.linkedin.com/in/你的领英用户名/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-关注我的领英-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://space.bilibili.com/你的B站UID" target="_blank"><img src="https://img.shields.io/badge/Bilibili-B站关注我-fb7299?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili"></a>
+  <a href="https://www.zhihu.com/people/你的知乎ID" target="_blank"><img src="https://img.shields.io/badge/Zhihu-知乎关注我-0084ff?style=for-the-badge&logo=zhihu&logoColor=white" alt="Zhihu"></a>
+  -->
+</div>
+
+---
+
+## 🐍 GitHub 贪吃蛇贡献图 | GitHub Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/你的用户名/你的用户名/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <p><em><small>这条小蛇会吃掉我的 GitHub 贡献哦！</small></em></p>
+</div>
+
+---
+
+<div align="center">
+  <p>感谢你的来访！愿代码与你同在！ 😄</p>
+  <img src="https://komarev.com/ghpvc/?username=你的用户名&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile views" />
 </div>
