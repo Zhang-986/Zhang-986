@@ -36,10 +36,10 @@
 <p align="center">
   <!-- 常用编程语言 -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,go,cpp,javascript&perline=5&theme=light" alt="编程语言"/>
+    <img src="https://skillicons.dev/icons?i=java&perline=5&theme=light" alt="编程语言"/>
   </a>
   <br/>
-  <em>（主要使用 Java 和 Python 进行后端开发，Go 和 C++ 也在学习探索中！）</em>
+  <em>（主要使用 Java 进行后端开发）</em>
   <br/><br/>
 
   <!-- 后端框架与技术 -->
@@ -47,7 +47,7 @@
     <img src="https://skillicons.dev/icons?i=spring,django,flask,nodejs,express,fastapi&perline=6&theme=light" alt="后端框架与技术"/>
   </a>
   <br/>
-  <em>（Spring Boot 是我的主力框架，Django/Flask 也在我的工具箱里！）</em>
+  <em>（Spring Boot 是我的主力框架！）</em>
   <br/><br/>
 
   <!-- 数据库 -->
