@@ -44,7 +44,7 @@
 
   <!-- 后端框架与技术 -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,django,flask,nodejs,express,fastapi&perline=6&theme=light" alt="后端框架与技术"/>
+    <img src="https://skillicons.dev/icons?i=spring,nodejs&perline=6&theme=light" alt="后端框架与技术"/>
   </a>
   <br/>
   <em>（Spring Boot 是我的主力框架！）</em>
@@ -52,7 +52,7 @@
 
   <!-- 数据库 -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&perline=4&theme=light" alt="数据库"/>
+    <img src="https://skillicons.dev/icons?i=mysql,redis&perline=4&theme=light" alt="数据库"/>
   </a>
   <br/>
   <em>（熟悉关系型数据库，也正在探索 NoSQL 的奥秘！）</em>
@@ -60,7 +60,7 @@
 
   <!-- 工具与其他 -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux,idea,vscode,postman&perline=8&theme=light" alt="工具与其他"/>
+    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,idea,vscode,postman&perline=8&theme=light" alt="工具与其他"/>
   </a>
   <br/>
   <em>（这些工具让我的开发之旅更加顺畅高效！）</em>
@@ -102,16 +102,16 @@
 
 <div align="center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Zhang-986&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&count_private=true" alt="GitHub Stats" />
   </p>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhang-986&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
   </p>
   <p>
-    <img src="https://streak-stats.demolab.com/?user=你的用户名&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=Zhang-986&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </p>
   <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=你的用户名&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Zhang-986&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
   </p>
 </div>
 
@@ -121,7 +121,7 @@
 
 <div align="center">
   <p>非常欢迎和我交流技术或者一起学习！</p>
-  <a href="mailto:你的邮箱地址"><img src="https://img.shields.io/badge/Email-邮箱联系我-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:3225483474@qq.com"><img src="https://img.shields.io/badge/Email-邮箱联系我-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <!-- 
     如果你有其他社交媒体，可以取消注释并替换链接:
   <a href="https://www.linkedin.com/in/你的领英用户名/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-关注我的领英-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -135,7 +135,7 @@
 ## 🐍 GitHub 贪吃蛇贡献图 | GitHub Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/你的用户名/你的用户名/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/Zhang-986/Zhang-986/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
   <p><em><small>这条小蛇会吃掉我的 GitHub 贡献哦！</small></em></p>
 </div>
 
@@ -143,5 +143,5 @@
 
 <div align="center">
   <p>感谢你的来访！愿代码与你同在！ 😄</p>
-  <img src="https://komarev.com/ghpvc/?username=你的用户名&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Zhang-986&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile views" />
 </div>
