@@ -130,14 +130,6 @@
   -->
 </div>
 
----
-
-## 🐍 GitHub 贪吃蛇贡献图 | GitHub Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Zhang-986/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-  <p><em><small>这条小蛇会吃掉我的 GitHub 贡献哦！</small></em></p>
-</div>
 
 ---
 
