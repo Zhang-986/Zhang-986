@@ -44,7 +44,7 @@
 
   <!-- 后端框架与技术 -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,nodejs&perline=6&theme=light" alt="后端框架与技术"/>
+    <img src="https://skillicons.dev/icons?i=spring&perline=6&theme=light" alt="后端框架与技术"/>
   </a>
   <br/>
   <em>（Spring Boot 是我的主力框架！）</em>
