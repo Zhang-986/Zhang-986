@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="250px" />
   <h1>👋 你好呀，我是Zhang-986!</h1>
   <p>
-    一名坐标洛阳的软件工程“练习生” 🌱，主攻后端开发技术栈！<br />
+    一名坐标杭州的软件工程“练习生” 🌱，主攻后端开发技术栈！<br />
     梦想是成为一名能够用代码改变世界（或者至少让服务器更稳定）的后端工程师。🚀
   </p>
 
