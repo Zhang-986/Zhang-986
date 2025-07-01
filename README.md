@@ -8,7 +8,7 @@
 
   <!-- 个性化小牌子 -->
   <p>
-    <img src="https://img.shields.io/badge/身份-大二软件工程后端萌新-brightgreen?style=for-the-badge" alt="大二软件工程后端萌新" />
+    <img src="https://img.shields.io/badge/身份-软件工程后端萌新-brightgreen?style=for-the-badge" alt="软件工程后端萌新" />
     <img src="https://img.shields.io/badge/目标-后端大佬养成中-blueviolet?style=for-the-badge" alt="后端大佬养成中" />
     <img src="https://img.shields.io/badge/状态-Bug调不完就学-red?style=for-the-badge" alt="Bug调不完就学" />
   </p>
