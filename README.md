@@ -36,7 +36,7 @@
 <p align="center">
   <!-- 常用编程语言 -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java&perline=5&theme=light" alt="编程语言"/>
+    <img src="https://skillicons.dev/icons?i=java,golang&perline=5&theme=light" alt="编程语言"/>
   </a>
   <br/>
   <em>（主要使用 Java 进行后端开发）</em>
