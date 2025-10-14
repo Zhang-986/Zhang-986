@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="250px" />
   <h1>👋 Hey there, I'm Zhang-986!</h1>
+  <img src="https://komarev.com/ghpvc/?username=Zhang-986&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile views" />
   <p>
     A passionate Java Backend Intern based in Hangzhou 🌱<br />
     On a mission to build scalable systems (and maybe save the world... one API at a time) 🚀
@@ -181,7 +182,6 @@
 
 <div align="center">
   <p>Thanks for stopping by! May the code be with you! 😄</p>
-  <img src="https://komarev.com/ghpvc/?username=Zhang-986&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile views" />
   <br/><br/>
   <img src="https://img.shields.io/badge/Made%20with-❤️%20and%20☕-red?style=for-the-badge" alt="Made with Love and Coffee" />
 </div>
