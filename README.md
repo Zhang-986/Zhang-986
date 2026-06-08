@@ -1,32 +1,26 @@
-<div align="center">
-  <h1>Hey, I'm Zhang 👋</h1>
-  <p>
-    Backend Developer · Hangzhou, China<br>
-    Building tools & automation for developer productivity
-  </p>
-  <p>
-    <a href="mailto:3225483474@qq.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-    <img src="https://img.shields.io/badge/Open%20to-Opportunities-brightgreen?style=flat-square" alt="Open to Opportunities">
-  </p>
-</div>
+# Hi, I'm Zhang
 
----
+Software engineer based in Hangzhou, China.
 
-## About Me
+I work on backend systems, developer tooling, and AI-related infrastructure. I care about reliable interfaces, clear test coverage, and small changes that are easy to review.
 
-- 🎓 Software Engineering @ Haust
-- 💼 Intern developer — focused on backend services, CLI tooling, and automation
-- 🔧 Day-to-day: Python, Go, Java
-- 🌱 Exploring: AI Agent × developer tools, structured system design
-- 🎮 Off-work: Valorant & CS
+## Focus
 
----
+- Backend engineering and service reliability
+- AI agents, SDKs, MCP, and developer tooling
+- API design, CLI workflows, and automation
+- Testing from both RD and QA perspectives
 
 ## Open Source
 
-**[larksuite/cli](https://github.com/larksuite/cli)** — Contributed structured error handling improvements to the task management module ([PR #740](https://github.com/larksuite/cli/pull/740))
+I contribute fixes to projects I use or study, especially around SDK behavior, protocol edge cases, and developer experience.
 
----
+Recent areas:
+
+- MCP SDKs
+- AI SDKs and agent tooling
+- Lark/Feishu developer tools
+- Go and Python libraries
 
 ## Tech Stack
 
@@ -36,18 +30,6 @@
 
 **Tools:** Git, Docker, Linux, Kubernetes, Jenkins
 
----
+## Contact
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zhang-986&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zhang-986&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-<div align="center">
-  <p>Thanks for stopping by!</p>
-</div>
+- Email: 3225483474@qq.com
