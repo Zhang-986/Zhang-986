@@ -2,27 +2,41 @@
 
 Software engineer based in Hangzhou, China.
 
-I work on backend systems, developer tooling, and Go SDK/CLI reliability. I care about small, reviewable fixes with clear tests: auth and config boundaries, transport behavior, structured errors, streaming, and developer workflows that fail in predictable ways.
+I work on backend systems, developer tooling, and Go SDK/CLI reliability.
+
+My recent open-source work is focused on Lark/Feishu developer infrastructure: auth correctness, token cache safety, WebSocket lifecycle bugs, streaming downloads, cross-platform CLI behavior, and automation-friendly error handling.
 
 ## Focus
 
 - Go backend engineering and platform tooling
-- SDK, CLI, and OpenAPI integration reliability
-- Auth, config, transport, and protocol edge cases
-- Test coverage from both RD and QA perspectives
+- Lark/Feishu SDK and CLI reliability
+- Auth, token lifecycle, cache isolation, and transport edge cases
+- WebSocket concurrency, graceful shutdown, and streaming I/O
+- Structured errors and test coverage from both RD and QA perspectives
 
 ## Open Source
 
-I prefer practical fixes to tools that developers actually run: reproduce the issue, isolate the root cause, add regression coverage, and keep the change easy to review.
+I prefer practical fixes to tools that developers actually run: reproduce the issue, isolate the root cause, add regression coverage, and keep the change small enough to review.
 
-Selected recent work:
+Merged Lark/Feishu contributions:
 
 - [larksuite/cli#1454](https://github.com/larksuite/cli/pull/1454) - clarified remote event bus recovery when local `status` / `stop` cannot fix a remote blocker. Merged.
 - [larksuite/cli#740](https://github.com/larksuite/cli/pull/740) - migrated task shortcut failures from bare errors to structured CLI errors for machine-readable recovery. Merged.
-- [anthropics/anthropic-sdk-go#374](https://github.com/anthropics/anthropic-sdk-go/pull/374) - skips environment auth autoload when explicit credentials are configured. Open PR.
-- [anthropics/anthropic-sdk-go#375](https://github.com/anthropics/anthropic-sdk-go/pull/375) - makes Bedrock requests respect the configured AWS HTTP client. Open PR.
-- [google/adk-go#1022](https://github.com/google/adk-go/pull/1022) - runs callbacks for aggregated A2A events emitted from partial artifact streams. Open PR.
-- [google/adk-go#1023](https://github.com/google/adk-go/pull/1023) - aligns skill tool instructions with the actual `load_skill` schema. Open PR.
+
+Active Lark/Feishu work under review:
+
+- [larksuite/oapi-sdk-go#218](https://github.com/larksuite/oapi-sdk-go/pull/218) - isolates app and tenant token cache entries by app secret fingerprint to avoid credential cross-use.
+- [larksuite/oapi-sdk-go#217](https://github.com/larksuite/oapi-sdk-go/pull/217) - adds streaming Drive download APIs to avoid buffering large files into memory.
+- [larksuite/oapi-sdk-go#215](https://github.com/larksuite/oapi-sdk-go/pull/215) - guards WebSocket client config updates to remove a data race.
+- [larksuite/oapi-sdk-go#216](https://github.com/larksuite/oapi-sdk-go/pull/216) - adds graceful shutdown support for WebSocket clients.
+- [larksuite/cli#1525](https://github.com/larksuite/cli/pull/1525) - fixes Windows exec provider security audit false positives caused by synthetic Unix mode bits.
+- [larksuite/cli#1524](https://github.com/larksuite/cli/pull/1524) - translates rich text segment styles in Sheets cell writes.
+
+Other Go SDK and protocol reliability work:
+
+- [anthropics/anthropic-sdk-go#374](https://github.com/anthropics/anthropic-sdk-go/pull/374) - skips environment auth autoload when explicit credentials are configured.
+- [anthropics/anthropic-sdk-go#375](https://github.com/anthropics/anthropic-sdk-go/pull/375) - makes Bedrock requests respect the configured AWS HTTP client.
+- [mark3labs/mcp-go#909](https://github.com/mark3labs/mcp-go/pull/909) - avoids forwarding inbound request headers into outbound MCP client calls.
 
 ## Tech Stack
 
