@@ -32,11 +32,7 @@ Active Lark/Feishu work under review:
 - [larksuite/cli#1525](https://github.com/larksuite/cli/pull/1525) - fixes Windows exec provider security audit false positives caused by synthetic Unix mode bits.
 - [larksuite/cli#1524](https://github.com/larksuite/cli/pull/1524) - translates rich text segment styles in Sheets cell writes.
 
-Other Go SDK and protocol reliability work:
 
-- [anthropics/anthropic-sdk-go#374](https://github.com/anthropics/anthropic-sdk-go/pull/374) - skips environment auth autoload when explicit credentials are configured.
-- [anthropics/anthropic-sdk-go#375](https://github.com/anthropics/anthropic-sdk-go/pull/375) - makes Bedrock requests respect the configured AWS HTTP client.
-- [mark3labs/mcp-go#909](https://github.com/mark3labs/mcp-go/pull/909) - avoids forwarding inbound request headers into outbound MCP client calls.
 
 ## Tech Stack
 
