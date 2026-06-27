@@ -1,5 +1,8 @@
 # Hi, I'm Zhang
 [![GitHub Roast 评分徽章](https://githubroast.icu/api/badge/Zhang-986)](https://githubroast.icu/u/Zhang-986)
+<a href="https://githubroast.icu/u/Zhang-986"><img src="https://githubroast.icu/api/badge/Zhang-986" alt="GitHub Roast 评分徽章" /></a>
+
+
 Software engineer based in Hangzhou, China.
 
 I work on backend systems, developer tooling, and Go SDK/CLI reliability.
