@@ -38,9 +38,9 @@ Active Lark/Feishu work under review:
 
 ## Tech Stack
 
-**Languages:** Go, Python, Java
+**Languages:** Go, Java
 
-**Backend:** APIs, CLIs, SDKs, Spring Boot, MySQL, Redis, PostgreSQL, MongoDB
+**Backend:** APIs, CLIs, SDKs, Spring Boot, MySQL, Redis
 
 **Tools:** Git, Docker, Linux, Kubernetes, Jenkins
 
